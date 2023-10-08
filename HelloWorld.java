@@ -1,6 +1,6 @@
 class Hello{
 	
 	public static void main(String[] args){
-		System.out.println("Fighting!!!");
+		System.out.println("ZCL!!!");
 	}
 }
